@@ -6,6 +6,6 @@
 
 For this project, we expect you to look at this concept:
 
-[Technical interview]<h1>https://alx-intranet.hbtn.io/concepts/100005</h1>
+- Technical interview[https://alx-intranet.hbtn.io/concepts/100005]
 
 ```
