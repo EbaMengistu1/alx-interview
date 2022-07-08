@@ -1,5 +1,5 @@
 # 0x03. Log Parsing
-```Algorithm``` ````Python```
+```Algorithm``` ```Python```
 
 # Requirements
 
